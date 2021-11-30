@@ -1,6 +1,6 @@
 {
-    "name": "laminas/laminas-mvc-skeleton",
-    "description": "Laminas MVC Skeleton Application",
+    "name": "comcduarte/skeleton-application",
+    "description": "COM Skeleton Application",
     "type": "project",
     "license": "BSD-3-Clause",
     "keywords": [

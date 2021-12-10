@@ -13,4 +13,14 @@
  */
 
 return [
+	'service_manager' => [
+        'services' => [
+            'model-adapter-config' => [
+                'driver' => 'PDO',
+                'dsn' => 'mysql:host=hostname;dbname=databasename',
+                'username' => 'username',
+                'password' => 'password',
+            ],
+        ],
+    ],
 ];
